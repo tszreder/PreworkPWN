@@ -1,1 +1,2 @@
 W tym repozytorium s¹ pliki
+To jest druga linia kodu
